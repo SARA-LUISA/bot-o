@@ -1,2 +1,3 @@
 # bot-o
-botão que altera a cor do fundo
+ A finalidade destes botões é alterar a cor
+   do fundo para a desisgnada do botão
