@@ -1,0 +1,29 @@
+#verde {
+    background-color: white;
+}
+
+#verde:hover {
+    background-color: green;
+}
+
+#rosa {
+    background-color: white;
+}
+
+#rosa:hover {
+    background-color: pink;
+
+}
+ #lilas {
+    background-color: white;
+}
+#lilas:hover {
+    background-color: purple;
+}
+
+#mensagem {
+    background-color: white;
+}
+#mensagem:hover {
+    background-color: yellow;
+}
